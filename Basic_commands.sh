@@ -21,3 +21,6 @@ uname -a
 
 # Used to change the user's password
 passwd
+
+# Unmounts a directory
+sudo unmount <Path>
