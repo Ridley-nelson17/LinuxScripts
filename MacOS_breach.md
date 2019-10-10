@@ -14,6 +14,7 @@ Link to article thread is found [here](https://www.jamf.com/jamf-nation/discussi
 2. When the Utilities screen appears, go the **Utilities menu bar**, and select “**Firmware Password Utility**”.
 3. Choose to turn the **Firmware Password off**.
 
+# All the things that probably are useless
 
 ## Method 1
 Plug in the USB
