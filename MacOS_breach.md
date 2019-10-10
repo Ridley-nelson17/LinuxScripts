@@ -1,6 +1,7 @@
-> May not work due to security updates
+> **May not work due to security updates**
 
 ## Jamf Now Method
+> Tested in most recent version of MacOS Sierra 
 link is found [here](https://www.jamf.com/jamf-nation/discussions/5474/need-to-remove-firmware-password)
 1. login to a basic user that can access the terminal
 2. in the terminal, type: `cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources`
