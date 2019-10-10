@@ -1,6 +1,11 @@
 > May not work due to security updates
 
-# Method 1
+## Jamf Now Method
+cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources
+./setregproptool -h 
+
+
+## Method 1
 Plug in the USB
 Power on
 Hold option when it boots
