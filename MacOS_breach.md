@@ -2,7 +2,8 @@
 
 ## Jamf Now Method
 cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources
-./setregproptool -h 
+`./setregproptool -h `
+`setregproptool -d [-o old password]`
 
 
 ## Method 1
