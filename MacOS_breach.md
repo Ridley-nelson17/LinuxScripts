@@ -8,6 +8,7 @@ Hold `⌘+S` on startup
 `mount -uw /`
 `launchctl load /System/Library/LaunchDaemons/com.apple.opendirectoryd.plist` (or /System/Library/LaunchDaemons/com.apple.DirectoryServices.plist in 10.6)
 
+## In single user mode
 type: `dscl . passwd /Users/username (without a trailing slash) and enter a new password. You can ignore the error about com.apple.DirectoryServices.plist` then `reboot`
 
 ## Creating an Admin Account
