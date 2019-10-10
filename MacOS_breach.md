@@ -1,6 +1,7 @@
 > May not work due to security updates
 
 ## Jamf Now Method
+link is found [here](https://www.jamf.com/jamf-nation/discussions/5474/need-to-remove-firmware-password)
 `cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources`
 `./setregproptool -h `
 `setregproptool -d [-o old password]`
