@@ -24,3 +24,5 @@ passwd
 
 # Unmounts a directory
 sudo unmount <Path>
+
+lsblk
