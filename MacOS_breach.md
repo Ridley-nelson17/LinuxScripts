@@ -9,6 +9,11 @@ Link to article thread is found [here](https://www.jamf.com/jamf-nation/discussi
 3. (**OPTIONAL**)then type: `./setregproptool -h`
 4. along with: `setregproptool -d [-o old password]`
 
+## Firmware Passcode Utility
+1. Restart your Mac while holding down the `Command + R` keys to enter **Recovery Mode**.
+2. When the Utilities screen appears, go the **Utilities menu bar**, and select “**Firmware Password Utility**”.
+3. Choose to turn the **Firmware Password off**.
+
 
 ## Method 1
 Plug in the USB
