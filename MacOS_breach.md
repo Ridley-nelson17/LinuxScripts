@@ -2,9 +2,10 @@
 
 ## Jamf Now Method
 link is found [here](https://www.jamf.com/jamf-nation/discussions/5474/need-to-remove-firmware-password)
-1- `cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources`
-2- `./setregproptool -h `
-3- `setregproptool -d [-o old password]`
+1. login to a basic user that can access the terminal
+2. in the terminal, type: `cd /Volumes/Mac OS X Install Image/Applications/Utilities/Firmware Password Utility.app/Contents/Resources`
+3. (**OPTIONAL**)then type: `./setregproptool -h`
+4. along with: `setregproptool -d [-o old password]`
 
 
 ## Method 1
