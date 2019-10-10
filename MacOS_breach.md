@@ -4,7 +4,7 @@
 • Press `cmd + r` then type `reset password`
 
 ## For MacOSX 10.7 and possibly higher
-- -/ Hold ⌘+S on startup
+Hold ⌘+S on startup
 mount -uw /
 launchctl load /System/Library/LaunchDaemons/com.apple.opendirectoryd.plist 
 (or /System/Library/LaunchDaemons/com.apple.DirectoryServices.plist in 10.6)
