@@ -29,7 +29,7 @@ lsblk
 
 
 | Commands                | Description                                                                                 |
-| ----------------------- |:-------------------------------------------------------------------------------------------:|
+| ----------------------- |:------------------------------------------------------------------------------------------- |
 | lsblk                   | Lists the hard storage units connected to the device                                        |
 | sudo unmount<Path>      | Unmounts a Directory                                                                        |
 | passwd                  | Used to change the users password                                                           |
