@@ -1,5 +1,3 @@
-> **May not work due to security updates**
-
 ## Jamf Now Method
 > Tested in most recent version of MacOS Sierra
 
