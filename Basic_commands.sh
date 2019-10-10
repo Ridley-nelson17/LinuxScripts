@@ -26,3 +26,18 @@ passwd
 sudo unmount <Path>
 
 lsblk
+
+
+| Commands                | Description   |
+| ----------------------- |:-------------:|
+| lsblk                   | Lists the hard storage units connected to the device |
+| sudo unmount<Path>      | Unmounts a Directory |
+| passwd                  | Used to change the users password |
+| pwd                     | Prints the working directory |
+| du                      | (Directory Usage) displays the size of a directory and all of it‘s subdirectories |
+| ||
+| ||
+|||
+|||
+|||
+|||
