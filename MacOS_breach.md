@@ -1,7 +1,10 @@
-* Plug in the USB
-* Power on
-* Hold option when it boots
-• Press `cmd + r` then type `reset password`
+> May not work due to security updates
+
+# Method 1
+Plug in the USB
+Power on
+Hold option when it boots
+Press `cmd + r` then type `reset password`
 
 ## For MacOSX 10.7 and possibly higher
 Hold `⌘+S` on startup
