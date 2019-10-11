@@ -33,11 +33,13 @@ Hold `⌘+S` on startup
 5. `passwd [username]`
 
 ## Creating an Admin Account
-Hold `⌘+S` on startup, type `mount -uw /` then `rm /var/db/.AppleSetupDone` then `reboot`
-Go through the steps of creating a new account. You can leave all fields in the personal information step blank.
-After logging in to the new account, go to the Users & Groups preference pane, select the old account, press the Reset Password... button, and enter a new password
+1. Hold `⌘+S` on startup
+2. Type `mount -uw /` 
+3. Then `rm /var/db/.AppleSetupDone` 
+4. Then `reboot`
+5. Go through the steps of creating a new account. You can leave all fields in the personal information step blank.
 
 ## Using Recovery Mode
 Hold `⌘+R` on startup
-Open Terminal from the Utilities menu
+Open Terminal from the Utilities menu if its availible
 Type resetpassword and follow the instructions
