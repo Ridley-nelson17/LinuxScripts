@@ -1,3 +1,4 @@
 [autorun]
 label = Ubuntu Portable Drive
 icon = Rxl172UbuntuPortableDrive.ico
+#action = Mount USB Storage Device
